@@ -1,5 +1,5 @@
-streamlit
+python==3.8
+streamlit==1.10.0
 pandas
-numpy
 scikit-learn
 pickle
